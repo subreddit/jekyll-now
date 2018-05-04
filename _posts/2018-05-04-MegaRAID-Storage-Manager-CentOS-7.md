@@ -1,5 +1,6 @@
 ---
 published: true
+weight: 10
 ---
 **Install MSM - Server component only for remote managment**
 
