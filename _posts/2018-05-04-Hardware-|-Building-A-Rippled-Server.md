@@ -12,6 +12,6 @@ My total cost was $721.25.
 
 
 
-**Next Section: Benchmarking**
+**Next Section: [Benchmarking](https://subreddit.github.io/Benchmarking-Building-A-Rippled-Server/)**
 
-**Previous Section: Intro**
+**Previous Section: [Intro](https://subreddit.github.io/Intro-Building-A-Rippled-Server/)**
