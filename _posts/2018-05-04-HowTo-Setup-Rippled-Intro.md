@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## How-To Setup Rippled - Introduction
 
