@@ -6,7 +6,7 @@
 name: ripple.subreddit.net
 
 # Short bio or description (displayed in the header)
-description: Blog created to documet the installation of a rippled validator for the /r/Reddit community.
+description: Blog created to document the installation of a rippled server for the /r/Reddit community.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
