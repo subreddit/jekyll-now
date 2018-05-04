@@ -2,7 +2,9 @@
 published: true
 weight: 10
 ---
-**Install MSM - Server component only for remote managment**
+The MegaRAID Storage Manager is a nice GUI tool that will you change your RAID volume settings on the fly.  Fortunatley there is an option to remotely manage the RAID controller from another workstation with a desktop envrionment by installing only the server portion of MSM.  You could also manage the RAID controller locally on the server using MegaCLI.  The choice is yours.
+
+**Installing MegaRAID Storage Server - Remote Server Package only**
 
 Install the prereqs:
 
