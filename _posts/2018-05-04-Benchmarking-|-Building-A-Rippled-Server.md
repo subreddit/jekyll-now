@@ -2,8 +2,8 @@
 published: false
 ---
 Before continuing the install I needed to benchmark the IOPS to ensure my server would meet the production level requirements and be an asset to the network and not a hindrance.  /u/pepperew directed me to this site to help use as a guide for benchmarking: [https://dzone.com/articles/iops-benchmarking-disk-io-aws-vs-digitalocean](https://dzone.com/articles/iops-benchmarking-disk-io-aws-vs-digitalocean)
-**TLDR; The SSD caching will meet the recommended requirements.
-**
+**TLDR; The SSD caching will meet the recommended requirements.**
+
 These are the commands I used with results:
 
 ### Random 75%read/write
