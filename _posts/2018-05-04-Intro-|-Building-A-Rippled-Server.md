@@ -15,14 +15,14 @@ The largest cost barrier in a production node is the amount of storage required 
 This rippled guide consists of the following sections:
 
 - [Intro](https://subreddit.github.io/Intro-Building-A-Rippled-Server/)
-- Hardware
-- Benchmarking
-- OS Installation
+- [Hardware](https://subreddit.github.io/Hardware-Building-A-Rippled-Server/)
+- [Benchmarking](https://subreddit.github.io/Benchmarking-Building-A-Rippled-Server/)
+- [OS Installation](https://subreddit.github.io/Os-Installation-Building-A-Rippled-Server/)
 - Installing MSM or MegaCLI
 - Rippled Installation
 
 
-**Next Section: Hardware**
+**Next Section: [Hardware](https://subreddit.github.io/Hardware-Building-A-Rippled-Server/)**
 
 
 Sources: 
