@@ -1,5 +1,6 @@
 ---
 published: true
+weight: 2
 ---
 Choosing hardware for the production level rippled server was challenging due to the recommendations on storage and cost associated.  My goal was to procure the least expensive equipment that could run rippled at a production level requirements.  If building a node or cluster for an Enterprise the hardware would change vastly.  For the server I chose a used Dell C2100 from eBay because of the low cost for a server with twelve 3.5" drive bays.  The cost of the server was $215 and included dual Xeon E5620's, 48GB of RAM, twelve HD caddy's, one power supply (expandable to two), and shipping.  For redundant power I purchased an additional power supply from eBay for $26.27.
 
