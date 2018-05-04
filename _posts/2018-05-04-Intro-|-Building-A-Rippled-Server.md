@@ -18,7 +18,7 @@ This rippled guide consists of the following sections:
 - [Hardware](https://subreddit.github.io/Hardware-Building-A-Rippled-Server/)
 - [Benchmarking](https://subreddit.github.io/Benchmarking-Building-A-Rippled-Server/)
 - [OS Installation](https://subreddit.github.io/Os-Installation-Building-A-Rippled-Server/)
-- [Installing MegaRaid Storage Manager or MegaCLI on CentOS 7](https://subreddit.github.io/MegaRAID-Storage-Manager-CentOS-7/)
+- [Installing MegaRaid Storage Manager or MegaCLI on CentOS 7](https://subreddit.github.io/Installing-MegaRAID-Storage-Manager-on-CentOS-7/)
 - Rippled Installation
 
 
