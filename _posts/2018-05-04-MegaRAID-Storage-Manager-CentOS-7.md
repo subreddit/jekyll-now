@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 **Install MSM - Server component only for remote managment**
 
