@@ -71,6 +71,6 @@ With the benchmarking showing the SSD caching will meet the recommended performa
 
 
 
-**Next Section: OS Installation**
+**Next Section: [OS Installation](https://subreddit.github.io/Os-Installation-Building-A-Rippled-Server/)**
 
-**Previous Section: Hardware**
+**Previous Section: [Hardware](https://subreddit.github.io/Hardware-Building-A-Rippled-Server/)**
