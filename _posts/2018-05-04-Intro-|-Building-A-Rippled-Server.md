@@ -21,7 +21,7 @@ This rippled guide consists of the following sections:
 - Rippled Installation
 
 
-### Next Section: Hardware
+**Next Section: Hardware**
 
 
 Sources: 
