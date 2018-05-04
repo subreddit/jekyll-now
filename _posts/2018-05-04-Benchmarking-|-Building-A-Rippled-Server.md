@@ -7,12 +7,15 @@ Before continuing the install I needed to benchmark the IOPS to ensure my server
 These are the commands I used with results:
 
 **Random 75%read/write**
+
 	$ sudo fio --randrepeat=1 --ioengine=libaio --direct=1 --gtod_reduce=1 --name=test --filename=/mnt/test --bs=4k --iodepth=64 --size=4G --readwrite=randrw --rwmixread=75
 
 **Random Read**
+
 	$ sudo fio --randrepeat=1 --ioengine=libaio --direct=1 --gtod_reduce=1 --name=test --filename=/mnt/test --bs=4k --iodepth=64 --size=4G --readwrite=randread
 
 **Random Write**
+
 	$ sudo fio --randrepeat=1 --ioengine=libaio --direct=1 --gtod_reduce=1 --name=test --filename=/mnt/test --bs=4k --iodepth=64 --size=4G --readwrite=randwrite
 
 ---------------------------------------
