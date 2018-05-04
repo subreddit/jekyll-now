@@ -35,6 +35,7 @@ Time to configure the 8TB VD for an LVM formatted with XFS.  After researching w
 
 Now we are ready to install rippled.
 
+
 **Previous Section: Benchmarking**
 
 **Next Section: Installing rippled**
