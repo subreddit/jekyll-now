@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-First I installed the cachecade hardware key on the 9260-4i.  Then replaced the Perc h700 controller that came with server (bonus) using the 9260-4i with the existing SAS cable to the SAS-A port on the backplane.  During the first boot I installed all the firmware/BIOS updates from Dells website to the lastest versions.  
+First I installed the cachecade hardware key on the 9260-4i.  Then replaced the Perc h700 controller that came with server (bonus) using the 9260-4i with the existing SAS cable to the SAS-A port on the backplane.  During the first boot I installed all the firmware/BIOS updates from Dells website to the latest versions.  
 
 Using the WebBIOS on the RAID controller I created two RAID5 drive groups, one 100GB for the OS and the other with the remaining storage for the database. A 64KB stripe size is recommended.  Also while in WebBIOS I created the CacheCade volume in a RAID1 mirror with write back enabled.  When creating your RAID volumes keep in mind there are optimum settings which can be changed later, either remotely with the MegaRAID Storage Manger or locally with MegaCLI, but the stripe size cannot be changed and should be set to 64KB.  (See this page for MSM and MegaCLI installation on CentOS 7.)  You can choose between the Optimum settings for CacheCade or Fastpath for your use case using this document.  I chose the CacheCade optimum settings for both RAID5 VD's using these settings:  Write Policy=Write Back, Read Policy=No Read Ahead, IO Policy=Cached IO, Access Policy=Read Write, Disk Cache Policy=Disabled, and Background Initialization=Enabled.
 
@@ -29,7 +29,7 @@ CentOS 7 is my OS of choice or RHEL at the enterprise level.  At this point usin
 
 Connect your web browser to Cockpit at https://<your server ip>:9090 and login with your user account.
 
-Time to configure the 8TB VD for an LVM formatted with XFS.  After researching which filesystem would be best for 4K database reads and writes I setteled on XFS over BTRFS.  The main logic behind XFS was performance, OS Support, and the fact BTRFS will be removed RHEL 8.
+Time to configure the 8TB VD for an LVM formatted with XFS.  After researching which file system would be best for 4K database reads and writes I settled on XFS over BTRFS.  The main logic behind XFS was performance, OS Support, and the fact BTRFS will be removed RHEL 8.
 
 <To be filled in>
 
