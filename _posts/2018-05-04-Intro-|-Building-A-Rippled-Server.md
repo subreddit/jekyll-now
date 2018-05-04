@@ -20,6 +20,7 @@ This rippled guide consists of the following sections:
 - Installing MSM or MegaCLI
 - Rippled Installation
 
+
 ### Next Section: Hardware
 
 
