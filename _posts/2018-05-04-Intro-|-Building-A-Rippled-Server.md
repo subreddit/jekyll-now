@@ -20,7 +20,8 @@ This rippled guide consists of the following sections:
 - Installing MSM or MegaCLI
 - Rippled Installation
 
-Enjoy.
+### Next Section: Hardware
+
 
 Sources: 
 - † "At the time of writing (2018-03-01), a server with all XRP Ledger history requires 6.8TB."
