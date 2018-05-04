@@ -1,5 +1,6 @@
 ---
 published: true
+weight: 4
 ---
 First I installed the cachecade hardware key on the 9260-4i.  Then replaced the Perc h700 controller that came with server (bonus) using the 9260-4i with the existing SAS cable to the SAS-A port on the backplane.  During the first boot I installed all the firmware/BIOS updates from Dells website to the latest versions.  
 
