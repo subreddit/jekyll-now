@@ -9,5 +9,6 @@ CacheCade Pro v2 and FastPath are technologies from LSI I have used in the past.
 
 My total cost was $721.25.
 
-## Next Section: Benchmarking
-## Previous Section: Intro
+
+### Next Section: Benchmarking
+### Previous Section: Intro
