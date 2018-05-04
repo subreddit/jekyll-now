@@ -1,5 +1,6 @@
 ---
 published: true
+weight: 1
 ---
 Like many others who own XRP tokens I too am a fan of Ripple.  Using blockchain to send money globally in a fast and secure manner is not a new concept.  Ripple's use cases for xCurrent, xRapid, and xVia, have the potential to be the future of financial transactions.  What makes Ripple standout to me is their take on using blockchain in the enterprise and with the banking industry.  
 
