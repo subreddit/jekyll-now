@@ -31,7 +31,7 @@ Connect your web browser to Cockpit at https://<your server ip>:9090 and login w
 
 Time to configure the 8TB VD for an LVM formatted with XFS.  After researching which file system would be best for 4K database reads and writes I settled on XFS over BTRFS.  The main logic behind XFS was performance, OS Support, and the fact BTRFS will be removed RHEL 8.
 
-<To be filled in>
+	Placemark for new content
 
 Now we are ready to install rippled.
 
