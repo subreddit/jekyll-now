@@ -64,6 +64,8 @@ Write IOPS: min= 7552, max=20945, avg=16563.93
 
 --------------------------------
 
+
+
 With the benchmarking showing the SSD caching will meet the recommended performance of a production node, it was time to install rippled.
 
 
